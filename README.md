@@ -1,6 +1,6 @@
-# MetaMask Mnemonic to Private Key Converter
+# Mnemonic to Private Key Converter
 
-This Python script is designed to convert a MetaMask mnemonic phrase into private keys and . It follows the BIP-32 standard for hierarchical deterministic (HD) key generation.
+This Python script is designed to convert a MetaMask mnemonic phrase into private keys. It follows the BIP-32 standard for hierarchical deterministic (HD) key generation.
 
 ## Features
 
